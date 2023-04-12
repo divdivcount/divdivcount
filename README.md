@@ -3,7 +3,7 @@
 <div align=center>
 
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=divdivcount&theme=vue&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divdivcount&layout=compact&theme=dracula)](https://github.com/divdivcount)
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=divdivcount&theme=vue&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divdivcount&layout=compact&theme=dracula)](https://github.com/divdivcount)
   
 
 </div>
