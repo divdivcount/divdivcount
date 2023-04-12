@@ -10,7 +10,7 @@
 <hr>
 <div align="center">
   
-####Tech Stack
+### Tech Stack
   
 </div><br>
 <div align="center">
