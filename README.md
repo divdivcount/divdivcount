@@ -1,11 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=dafbe1&height=300&section=header&text=Welcome%20to%20my%20Git&fontSize=90)
 <hr>
 <div align=center>
-  
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=divdivcount&show_icons=true&theme=radical) 
+  <div align=left>
+    
+    ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=divdivcount&show_icons=true&theme=radical) 
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divdivcount&layout=compact&theme=dracula)](https://github.com/divdivcount)
-  
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divdivcount&layout=compact&theme=dracula)](https://github.com/divdivcount)
+    
+  </div>
 </div>
 
 <hr>
