@@ -2,9 +2,11 @@
 <hr>
 <div align=center>
 <div align=left>
+  
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=divdivcount&show_icons=true&theme=radical) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divdivcount&layout=compact&theme=dracula)](https://github.com/divdivcount)
+  
 </div>
 <hr>
 <div align="center">Tech Stack</div><br>
